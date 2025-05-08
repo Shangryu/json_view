@@ -1,74 +1,61 @@
 [
-  [
-    { "content": "Kadang kita gak capek kerjaannya, tapi capek pura-pura kuat tiap hari." },
-    { "content": "Gak apa-apa loh buat bilang, ‘hari ini gue lelah.’" },
-    { "content": "Itu bukan tanda lo lemah, tapi lo manusia." },
-    { "content": "Yang penting lo gak nyerah." }
-  ],
-  [
-    { "content": "Pernah gak sih ngerasa rame tapi sepi?" },
-    { "content": "Di tengah tawa orang lain, hati lo kayak kosong." },
-    { "content": "Gak apa-apa… kadang sepi itu ngingetin kita buat dengerin diri sendiri." },
-    { "content": "Pelan-pelan aja, lo akan nemuin damai." }
-  ],
-  [
-    { "content": "Lo gak harus selalu produktif buat merasa berharga." },
-    { "content": "Rebahan juga perlu, mikirin diri juga penting." },
-    { "content": "Jangan biarin standar orang nentuin nilai lo." },
-    { "content": "Lo cukup, bahkan di hari tergalau lo." }
-  ],
-  [
-    { "content": "Lo pernah mikir, ‘Kenapa hidup gue gini-gini aja?’" },
-    { "content": "Padahal lo lagi tumbuh, pelan tapi pasti." },
-    { "content": "Proses gak selalu kelihatan dari luar." },
-    { "content": "Tapi hasilnya nanti yang bikin lo senyum bangga." }
-  ],
-  [
-    { "content": "Gak semua hari harus cerah." },
-    { "content": "Kadang hujan juga perlu, buat hati belajar sabar." },
-    { "content": "Hari buruk itu sementara, bukan kutukan." },
-    { "content": "Lo udah kuat banget bisa sampai sini." }
-  ],
-  [
-    { "content": "Lo gak sendirian." },
-    { "content": "Banyak yang juga lagi bingung, takut, dan capek kayak lo." },
-    { "content": "Bedanya, mereka masih jalan walau pelan." },
-    { "content": "Lo juga bisa, asal jangan berhenti." }
-  ],
-  [
-    { "content": "Jangan bandingin langkah lo sama orang lain." },
-    { "content": "Tiap orang punya waktunya sendiri buat bersinar." },
-    { "content": "Lo bukan gagal, lo cuma belum waktunya." },
-    { "content": "Tapi waktu lo akan datang." }
-  ],
-  [
-    { "content": "Kadang kita terlalu fokus sama apa yang belum punya." },
-    { "content": "Sampai lupa bersyukur atas hal kecil yang kita punya." },
-    { "content": "Napas lo, senyum orang terdekat, kopi pagi… itu rezeki juga." },
-    { "content": "Jangan tunggu kehilangan buat sadar." }
-  ],
-  [
-    { "content": "Lo boleh kecewa, sedih, bahkan nangis." },
-    { "content": "Tapi jangan biarin rasa itu matiin semangat lo." },
-    { "content": "Hati boleh jatuh, tapi jangan lupa berdiri lagi." },
-    { "content": "Hidup masih panjang, bro." }
-  ],
-  [
-    { "content": "Jangan takut berubah, meski itu bikin lo gak nyaman." },
-    { "content": "Justru di situ lo nemu versi terbaik dari diri lo." },
-    { "content": "Nyaman itu enak, tapi tumbuh itu penting." },
-    { "content": "Lo gak lahir buat stagnan." }
-  ],
-  [
-    { "content": "Hidup gak harus selalu ngerti semuanya sekarang." },
-    { "content": "Kadang lo cuma perlu percaya sama prosesnya." },
-    { "content": "Nikmatin aja alurnya, walau gak selalu mulus." },
-    { "content": "Tuhan gak pernah salah kasih waktu." }
-  ],
-  [
-    { "content": "Gak semua orang paham perjuangan lo." },
-    { "content": "Dan itu gak apa-apa." },
-    { "content": "Yang penting lo tahu kenapa lo mulai." },
-    { "content": "Pegang itu terus, sampai tujuan lo ketemu." }
-  ]
+  { "content": "Kadang kita gak capek kerjaannya, tapi capek pura-pura kuat tiap hari." },
+  { "content": "Gak apa-apa loh buat bilang, “hari ini gue lelah.”" },
+  { "content": "Itu bukan tanda lo lemah, tapi lo manusia." },
+  { "content": "Yang penting lo gak nyerah." },
+
+  { "content": "Pernah gak sih ngerasa rame tapi sepi?" },
+  { "content": "Di tengah tawa orang lain, hati lo kayak kosong." },
+  { "content": "Gak apa-apa… kadang sepi itu ngingetin kita buat dengerin diri sendiri." },
+  { "content": "Pelan-pelan aja, lo akan nemuin damai." },
+
+  { "content": "Lo gak harus selalu produktif buat merasa berharga." },
+  { "content": "Rebahan juga perlu, mikirin diri juga penting." },
+  { "content": "Jangan biarin standar orang nentuin nilai lo." },
+  { "content": "Lo cukup, bahkan di hari tergalau lo." },
+
+  { "content": "Lo pernah mikir, “Kenapa hidup gue gini-gini aja?”" },
+  { "content": "Padahal lo lagi tumbuh, pelan tapi pasti." },
+  { "content": "Proses gak selalu kelihatan dari luar." },
+  { "content": "Tapi hasilnya nanti yang bikin lo senyum bangga." },
+
+  { "content": "Gak semua hari harus cerah." },
+  { "content": "Kadang hujan juga perlu, buat hati belajar sabar." },
+  { "content": "Hari buruk itu sementara, bukan kutukan." },
+  { "content": "Lo udah kuat banget bisa sampai sini." },
+
+  { "content": "Lo gak sendirian." },
+  { "content": "Banyak yang juga lagi bingung, takut, dan capek kayak lo." },
+  { "content": "Bedanya, mereka masih jalan walau pelan." },
+  { "content": "Lo juga bisa, asal jangan berhenti." },
+
+  { "content": "Jangan bandingin langkah lo sama orang lain." },
+  { "content": "Tiap orang punya waktunya sendiri buat bersinar." },
+  { "content": "Lo bukan gagal, lo cuma belum waktunya." },
+  { "content": "Tapi waktu lo akan datang." },
+
+  { "content": "Kadang kita terlalu fokus sama apa yang belum punya." },
+  { "content": "Sampai lupa bersyukur atas hal kecil yang kita punya." },
+  { "content": "Napas lo, senyum orang terdekat, kopi pagi… itu rezeki juga." },
+  { "content": "Jangan tunggu kehilangan buat sadar." },
+
+  { "content": "Lo boleh kecewa, sedih, bahkan nangis." },
+  { "content": "Tapi jangan biarin rasa itu matiin semangat lo." },
+  { "content": "Hati boleh jatuh, tapi jangan lupa berdiri lagi." },
+  { "content": "Hidup masih panjang, bro." },
+
+  { "content": "Jangan takut berubah, meski itu bikin lo gak nyaman." },
+  { "content": "Justru di situ lo nemu versi terbaik dari diri lo." },
+  { "content": "Nyaman itu enak, tapi tumbuh itu penting." },
+  { "content": "Lo gak lahir buat stagnan." },
+
+  { "content": "Hidup gak harus selalu ngerti semuanya sekarang." },
+  { "content": "Kadang lo cuma perlu percaya sama prosesnya." },
+  { "content": "Nikmatin aja alurnya, walau gak selalu mulus." },
+  { "content": "Tuhan gak pernah salah kasih waktu." },
+
+  { "content": "Gak semua orang paham perjuangan lo." },
+  { "content": "Dan itu gak apa-apa." },
+  { "content": "Yang penting lo tahu kenapa lo mulai." },
+  { "content": "Pegang itu terus, sampai tujuan lo ketemu." }
 ]
