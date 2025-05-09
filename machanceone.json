@@ -1,28 +1,91 @@
-{
-  "content": [
-    "Pernah ngerasa capek tapi nggak tau capeknya kenapa?",
-    "Kayak semuanya salah, semua beban numpuk, tapi lo masih harus senyum kayak nggak ada apa-apa.",
-    "Itu bukan lo lemah, itu tandanya lo terlalu kuat terlalu lama.",
-    "Gak apa-apa kok, istirahat dulu. Dunia bisa nunggu.",
+[
+  {"content": "Pernah gak sih ngerasa kayak hidup lo stuck di tempat yang sama?"},
+  {"content": "Semua orang kayaknya udah jauh melangkah, sementara lo masih di titik ini."},
+  {"content": "Tenang, gak semua orang harus finish duluan kok."},
+  {"content": "Kadang, berhenti sebentar itu bukan kalah—itu healing."},
+  {"content": "Lo gak sendiri, dan lo gak ketinggalan apa-apa."},
 
-    "Lo sadar gak sih, kadang lo terlalu keras sama diri sendiri?",
-    "Lo ngasih maaf buat semua orang, tapi lupa maafin diri lo sendiri.",
-    "Padahal lo juga manusia, yang bisa salah, bisa jatuh, bisa capek.",
-    "Yuk pelan-pelan sayangin diri sendiri. Lo berharga, walaupun lo belum sadar.",
+  {"content": "Lo ngerasa gak sih, makin dewasa, makin sering pura-pura kuat?"},
+  {"content": "Padahal di dalam, hati udah retak seribu kali."},
+  {"content": "Tapi tetep aja bilang: 'gue gapapa'."},
+  {"content": "Ga masalah kok kalo lo capek, manusiawi banget."},
+  {"content": "Lo berhak istirahat, bukan harus selalu kuat."},
 
-    "Kalo lagi overthinking, jangan percaya semua yang dipikirin, ya.",
-    "Otak itu jago banget bikin skenario horror yang sebenernya nggak kejadian.",
-    "Tenang… hal buruk yang lo bayangin belum tentu bakal jadi kenyataan.",
-    "Fokus ke yang nyata, bukan ke yang cuma ada di kepala.",
+  {"content": "Kadang kita terlalu sibuk nyenengin semua orang, sampai lupa nyenengin diri sendiri."},
+  {"content": "Lo bukan badut, gak harus bikin semua orang happy."},
+  {"content": "Self-love itu bukan egois, itu kebutuhan."},
+  {"content": "Kalau bukan lo yang jaga diri lo sendiri, siapa lagi?"},
+  {"content": "Hari ini, coba pilih diri lo dulu ya."},
 
-    "Lo pernah gak sih ngerasa kalah sama pencapaian orang lain?",
-    "Padahal mereka lari di track yang beda, tapi lo ngerasa harus nyamain langkah.",
-    "Ingat, hidup bukan lomba. Lo nggak telat, lo cuma di jalan yang beda.",
-    "Jangan buru-buru, nikmatin proses lo sendiri. Pelan-pelan juga bisa sampai.",
+  {"content": "Overthinking itu nyebelin banget, ya?"}, 
+  {"content": "Baru dapet notifikasi aja, udah mikirnya kemana-mana."},
+  {"content": "Otak lo tuh pinter banget bikin drama yang belum tentu kejadian."},
+  {"content": "Tapi inget, pikiran bukan fakta."},
+  {"content": "Tenangin hati lo dulu, semuanya bakal baik-baik aja kok."},
 
-    "Pernah nggak, ngerasa semua perjuangan lo gak ada hasilnya?",
-    "Kayak udah kasih segalanya, tapi dunia tetep bilang ‘belum cukup’.",
-    "Percaya deh, nggak ada usaha yang sia-sia. Tuhan lagi nyusun waktunya.",
-    "Yang penting lo terus jalan. Pelan pun nggak apa-apa, asal gak nyerah."
-  ]
-}
+  {"content": "Pernah gak lo ngerasa invisible, kayak gak ada yang liat perjuangan lo?"},
+  {"content": "Lo kerja keras tiap hari, tapi tetap gak dihargai."},
+  {"content": "Sakit banget ya rasanya, apalagi kalo cuma bisa diem."},
+  {"content": "Tapi percaya deh, semesta gak pernah tidur."},
+  {"content": "Apa yang lo tabur, pasti akan lo tuai. Sabar ya."},
+
+  {"content": "Lo gak harus jadi versi sempurna buat pantas dicintai."},
+  {"content": "Luka lo, masa lalu lo, itu semua bagian dari lo."},
+  {"content": "Dan lo tetap layak dapet cinta yang tulus."},
+  {"content": "Jangan nurunin standar cuma biar gak kesepian."},
+  {"content": "Cinta yang tepat gak akan bikin lo ngerasa kurang."},
+
+  {"content": "Gagal itu gak bikin lo jadi pecundang."},
+  {"content": "Justru dari gagal, lo belajar jadi lebih kuat."},
+  {"content": "Jangan takut jatuh, yang penting lo bangun lagi."},
+  {"content": "Lo udah sejauh ini, jangan nyerah sekarang."},
+  {"content": "Perjalanan lo belum selesai, sabar ya."},
+
+  {"content": "Ada hari-hari di mana lo cuma pengen tidur dan ngilang."},
+  {"content": "Dan itu gapapa, lo bukan robot."},
+  {"content": "Kadang cara bertahan terbaik adalah dengan diam dulu."},
+  {"content": "Ngasih ruang buat diri sendiri bukan kelemahan."},
+  {"content": "Itu bentuk sayang yang jarang kita sadarin."},
+
+  {"content": "Jangan bandingin diri lo sama orang lain terus."},
+  {"content": "Lo gak tau perjuangan mereka, sama kayak mereka gak tau perjuangan lo."},
+  {"content": "Setiap orang punya waktunya masing-masing."},
+  {"content": "Fokus ke progress lo, sekecil apapun itu."},
+  {"content": "Karena tiap langkah tetaplah langkah."},
+
+  {"content": "Lo tau gak? Kadang senyum yang lo pasang itu cuma topeng."},
+  {"content": "Padahal dalam hati lo lagi hancur."},
+  {"content": "Tapi lo tetap bangun, tetap jalan, tetap coba."},
+  {"content": "Itu bukti lo kuat, walau gak semua orang lihat."},
+  {"content": "Dan gue lihat lo. Gue bangga sama lo."},
+
+  {"content": "Suka heran gak sih, kenapa kita bisa sabar buat orang lain, tapi gak buat diri sendiri?"},
+  {"content": "Lo pantas dapet pengertian juga, dari lo sendiri."},
+  {"content": "Gak semua hal harus sempurna dulu baru lo boleh bahagia."},
+  {"content": "Kadang, cukup dengan nerima aja udah bikin lega."},
+  {"content": "Pelan-pelan, yuk jadi rumah buat diri sendiri."},
+
+  {"content": "Hari ini boleh kok lo ngerasa gak baik-baik aja."},
+  {"content": "Lo gak harus ceria terus biar diterima."},
+  {"content": "Yang penting, lo jujur sama diri sendiri."},
+  {"content": "Peluk diri lo sendiri, bilang: 'gue udah berusaha semampunya'."},
+  {"content": "Itu udah lebih dari cukup."},
+
+  {"content": "Jangan nunggu semua orang setuju buat mulai sesuatu."},
+  {"content": "Kadang, langkah pertama itu paling serem."},
+  {"content": "Tapi juga yang paling penting."},
+  {"content": "Lo gak butuh izin dari siapapun buat berkembang."},
+  {"content": "Jalanin aja, lo bakal nemuin versi terbaik lo di sana."},
+
+  {"content": "Ada masa di mana lo harus ninggalin orang yang bikin lo ngerasa gak cukup."},
+  {"content": "Walaupun lo sayang, tapi lo juga harus milih diri lo sendiri."},
+  {"content": "Cinta gak seharusnya bikin lo merasa kecil."},
+  {"content": "Berani pergi juga bentuk keberanian lo buat sayang sama diri sendiri."},
+  {"content": "Lo pantas dapet cinta yang gak nyakitin."},
+
+  {"content": "Lo udah bertahan sejauh ini, itu hebat banget lho."},
+  {"content": "Mungkin gak ada yang muji, tapi itu gak bikin usaha lo jadi sia-sia."},
+  {"content": "Jangan remehkan diri lo yang terus coba walau capek."},
+  {"content": "Karena justru di situ, kekuatan lo kelihatan."},
+  {"content": "Lo pahlawan buat diri lo sendiri, dan itu keren banget."}
+]
